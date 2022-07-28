@@ -3,5 +3,5 @@
 
 ### To Do
 
-[ ] Video
-[ ] Audio
+- [ ] Video
+- [ ] Audio
